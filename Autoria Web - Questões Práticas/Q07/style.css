@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.content {
+    padding: 0px 100px;
+}
+
+header {
+    padding: 14px;
+    text-align: center;
+    background-color: rgb(224, 82, 124);
+}
+
+header h1 {
+    color: #fff;
+    font-size: 30px;
+}
+
+header ion-icon {
+    font-size: 30px;
+    color: #fff;
+}
+
+.texto p {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.imagens .content {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.linha {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.imgs img {
+    width: 400px;
+    height: 400px;
+}
+
+legend {
+    text-align: center;
+    color: rgb(224, 82, 124);
+}
