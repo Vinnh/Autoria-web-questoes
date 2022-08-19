@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    padding: 0px 100px;
+}
+
+header {
+    padding: 14px;
+    text-align: center;
+    background-color: rgb(224, 82, 124);
+}
+
+header h1 {
+    color: #fff;
+    font-size: 30px;
+}
+
+header ion-icon {
+    font-size: 30px;
+    color: #fff;
+}
+
+.imagens .content{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.linha{
+    display: flex;
+    justify-content: space-around;
+}
+
+.imgs img {
+    width: 400px;
+    height:400px;
+}
+
