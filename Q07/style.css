@@ -1,6 +1,8 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
 }
 
 .content {
@@ -23,20 +25,31 @@ header ion-icon {
     color: #fff;
 }
 
-.imagens .content{
+.texto p {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.imagens .content {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
     margin-top: 20px;
 }
 
-.linha{
+.linha {
     display: flex;
     justify-content: space-around;
+    margin-bottom: 50px;
 }
 
 .imgs img {
     width: 400px;
-    height:400px;
+    height: 400px;
 }
 
+legend {
+    text-align: center;
+    color: rgb(224, 82, 124);
+}

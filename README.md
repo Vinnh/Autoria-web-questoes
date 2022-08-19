@@ -35,3 +35,13 @@
 <h3>Confira o código fonte <a href="https://github.com/Vinnh/Autoria-web-questoes/tree/main/Q06">clicando aqui<a/><h3/>
 <h3>Confira o resultado <a href="https://portal-santa-cruz.netlify.app/">clicando aqui<a/><h3/>
 
+# ⚡ Questão 07: Galeria de fotos de livros ⚡
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/79426395/185703663-18e652d1-fed0-4772-9adc-bb8050b8313f.png" alt="imagem do site"> 
+</div>
+
+</br>
+
+<h3>Confira o código fonte <a href="https://github.com/Vinnh/Autoria-web-questoes/tree/main/Q07">clicando aqui<a/><h3/>
+<h3>Confira o resultado <a href="https://galeria-de-fotos-de-livros.netlify.app/">clicando aqui<a/><h3/>
